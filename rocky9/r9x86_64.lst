@@ -324,3 +324,5 @@ tcpdump
 netcat
 jq
 oniguruma
+tar
+podman
