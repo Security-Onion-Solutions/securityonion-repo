@@ -27,7 +27,7 @@
       <packagereq type="mandatory">iproute</packagereq>
       <packagereq type="mandatory">iproute-tc</packagereq>
       <packagereq type="mandatory">iputils</packagereq>
-      <packagereq type="mandatory" arch="aarch64,ppc64le,x86_64">irqbalance</packagereq>
+      <packagereq type="mandatory">irqbalance</packagereq>
       <packagereq type="mandatory">kbd</packagereq>
       <packagereq type="mandatory">kexec-tools</packagereq>
       <packagereq type="mandatory">less</packagereq>
@@ -75,6 +75,10 @@
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">NetworkManager-team</packagereq>
       <packagereq type="default">NetworkManager-tui</packagereq>
+      <packagereq type="default">netcat</packagereq>
+      <packagereq type="default">tcpdump</packagereq>
+      <packagereq type="default">unzip</packagereq>
+      <packagereq type="default">atop</packagereq>
       <packagereq type="default">libsysfs</packagereq>
       <packagereq type="default">linux-firmware</packagereq>
       <packagereq type="default">lshw</packagereq>

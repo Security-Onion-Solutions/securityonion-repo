@@ -104,3 +104,6 @@ perl-File-Find
 emacs-filesystem
 perl-Git
 iotop
+container-selinux
+policycoreutils-python-utils
+python3-policycoreutils
