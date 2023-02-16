@@ -332,3 +332,9 @@ python3-psutil
 python3-pycryptodomex
 python3-msgpack
 python3-immutables
+wget
+httpd-tools
+net-tools
+sqlite
+mariadb-devel
+nmap-ncat
