@@ -340,3 +340,4 @@ sqlite
 mariadb-devel
 nmap-ncat
 python3-lxml
+rsync
