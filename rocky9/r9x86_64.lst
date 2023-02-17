@@ -332,6 +332,7 @@ python3-psutil
 python3-pycryptodomex
 python3-msgpack
 python3-immutables
+python3-m2crypto
 wget
 httpd-tools
 net-tools
