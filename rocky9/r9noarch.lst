@@ -59,6 +59,7 @@ setup
 systemd-rpm-macros
 tzdata
 yum
+yum-utils
 perl-Digest
 perl-FileHandle
 perl-AutoLoader
