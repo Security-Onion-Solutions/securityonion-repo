@@ -341,3 +341,4 @@ mariadb-devel
 nmap-ncat
 python3-lxml
 createrepo
+createrepo_c-libs
