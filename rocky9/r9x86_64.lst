@@ -346,3 +346,4 @@ containernetworking-plugins
 containerd.io
 docker-ce
 docker-ce-cli
+python3-mysqlclient
