@@ -343,3 +343,6 @@ python3-lxml
 createrepo
 createrepo_c-libs
 containernetworking-plugins
+containerd.io
+docker-ce
+docker-ce-cli
