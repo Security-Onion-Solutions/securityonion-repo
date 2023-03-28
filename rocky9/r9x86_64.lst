@@ -8,6 +8,7 @@ audit
 audit-libs
 authselect
 authselect-libs
+authconfig
 bash
 bzip2-libs
 c-ares
