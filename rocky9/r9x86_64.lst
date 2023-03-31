@@ -32,6 +32,7 @@ device-mapper-event-libs
 device-mapper-libs
 device-mapper-persistent-data
 diffutils
+dmidecode
 dracut
 dracut-config-rescue
 dracut-network
@@ -224,6 +225,7 @@ p11-kit-trust
 pam
 parted
 passwd
+pciutils
 pciutils-libs
 pcre
 pcre2
