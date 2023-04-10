@@ -243,7 +243,6 @@ python3-dbus
 python3-gobject-base
 python3-gpg
 python3-hawkey
-python3-kickstart
 python3-libcomps
 python3-libdnf
 python3-libs
