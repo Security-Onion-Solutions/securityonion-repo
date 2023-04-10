@@ -4,6 +4,7 @@ NetworkManager-team
 NetworkManager-tui
 acl
 alternatives
+anaconda-dracut
 audit
 audit-libs
 authselect
