@@ -91,6 +91,7 @@ iputils
 irqbalance
 jansson
 jemalloc
+jemalloc-devel
 json-c
 kbd
 kernel
