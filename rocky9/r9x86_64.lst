@@ -276,6 +276,7 @@ systemd
 systemd-libs
 systemd-pam
 systemd-udev
+tcpreplay
 teamd
 tpm2-tss
 userspace-rcu
@@ -283,6 +284,7 @@ util-linux
 util-linux-core
 vim-minimal
 which
+wireshark-cli
 xfsprogs
 xz
 xz-libs
