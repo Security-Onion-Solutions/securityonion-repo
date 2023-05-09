@@ -16,11 +16,13 @@
       <packagereq type="mandatory">crypto-policies</packagereq>
       <packagereq type="mandatory">crypto-policies-scripts</packagereq>
       <packagereq type="mandatory">curl</packagereq>
+      <packagereq type="mandatory">dmidecode</packagereq>
       <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">yum</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">firewalld</packagereq>
+      <packagereq type="mandatory">git</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
       <packagereq type="mandatory">grubby</packagereq>
       <packagereq type="mandatory">hostname</packagereq>
@@ -34,6 +36,7 @@
       <packagereq type="mandatory">logrotate</packagereq>
       <packagereq type="mandatory">man-db</packagereq>
       <packagereq type="mandatory">ncurses</packagereq>
+      <packagereq type="mandatory">nmap-ncat</packagereq>
       <packagereq type="mandatory">openssh-clients</packagereq>
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">p11-kit</packagereq>
@@ -46,6 +49,8 @@
       <packagereq type="mandatory">rpm-plugin-audit</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
       <packagereq type="mandatory">rsyslog</packagereq>
+      <packagereq type="mandatory">salt</packagereq>
+      <packagereq type="mandatory">salt-minion</packagereq>
       <packagereq type="mandatory">selinux-policy-targeted</packagereq>
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
