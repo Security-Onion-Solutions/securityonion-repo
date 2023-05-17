@@ -170,7 +170,6 @@
       <packagereq type="mandatory">tcpdump</packagereq>
       <packagereq type="mandatory">createrepo</packagereq>
       <packagereq type="mandatory">bind-utils</packagereq>
-      <packagereq type="mandatory">salt-minion</packagereq>
       <packagereq type="mandatory">wget</packagereq>
       <packagereq type="mandatory">nmap-ncat</packagereq>
       <packagereq type="mandatory">net-tools</packagereq>
