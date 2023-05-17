@@ -34,6 +34,7 @@ device-mapper-libs
 device-mapper-persistent-data
 diffutils
 dmidecode
+dosfstools
 dracut
 dracut-config-rescue
 dracut-live
@@ -41,6 +42,7 @@ dracut-network
 dracut-squash
 e2fsprogs
 e2fsprogs-libs
+efibootmgr
 elfutils-libelf
 elfutils-libs
 ethtool
@@ -69,6 +71,7 @@ gpgme
 graphite2
 grep
 groff-base
+grub2-efi-x64
 grub2-pc
 grub2-tools
 grub2-tools-efi
@@ -265,6 +268,7 @@ sed
 sg3_utils
 sg3_utils-libs
 shadow-utils
+shim
 slang
 snappy
 sqlite-libs
