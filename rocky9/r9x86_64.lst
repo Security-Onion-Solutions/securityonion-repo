@@ -268,7 +268,7 @@ sed
 sg3_utils
 sg3_utils-libs
 shadow-utils
-shim
+shim-x64
 slang
 snappy
 sqlite-libs
