@@ -1,4 +1,8 @@
 NetworkManager
+NetworkManager-l2tp-gnome
+NetworkManager-openconnect-gnome
+NetworkManager-openvpn-gnome
+NetworkManager-pptp-gnome
 NetworkManager-libnm
 NetworkManager-team
 NetworkManager-tui
@@ -13,6 +17,9 @@ authconfig
 bash
 bzip2-libs
 c-ares
+cinnamon
+cinnamon-control-center
+cinnamon-screensaver
 chrony
 coreutils
 coreutils-common
@@ -46,6 +53,7 @@ efibootmgr
 elfutils-libelf
 elfutils-libs
 ethtool
+eom
 expat
 file
 file-libs
