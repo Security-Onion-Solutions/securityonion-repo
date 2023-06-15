@@ -30,7 +30,6 @@ ibus-hangul
 ibus-libpinyin
 ibus-m17n
 initial-setup-gui
-libs
 libstoragemgmt
 memtest86+
 open-vm-tools-desktop
