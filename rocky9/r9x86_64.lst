@@ -41,7 +41,7 @@ pinfo
 pipewire-gstreamer
 pipewire-utils
 plymouth
-qemu-quest-agent
+qemu-guest-agent
 rsyslog-gnutls
 rsyslog-gssapi
 rsyslog-relp
