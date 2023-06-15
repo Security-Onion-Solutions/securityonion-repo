@@ -302,6 +302,7 @@ systemd-udev
 tcpreplay
 teamd
 tpm2-tss
+transmission
 userspace-rcu
 util-linux
 util-linux-core
