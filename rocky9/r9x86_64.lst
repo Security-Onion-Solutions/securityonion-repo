@@ -90,6 +90,7 @@ gzip
 harfbuzz
 hostname
 ima-evm-utils
+imsettings-systemd
 inih
 initscripts-rename-device
 iproute
@@ -210,6 +211,7 @@ libxcrypt-compat
 libxml2
 libyaml
 libzstd
+lightdm
 lmdb-libs
 logrotate
 lshw
@@ -220,9 +222,13 @@ lvm2-libs
 lz4-libs
 lzo
 man-db
+metacity
 mpfr
 ncurses
 ncurses-libs
+nemo-fileroller
+nemo-image-converter
+nemo-preview
 nettle
 newt
 nftables
@@ -239,6 +245,7 @@ os-prober
 p11-kit
 p11-kit-trust
 pam
+parole
 parted
 passwd
 pciutils
@@ -248,6 +255,7 @@ pcre2
 pigz
 policycoreutils
 popt
+powerline
 prefixdevname
 procps-ng
 psmisc
@@ -263,6 +271,7 @@ python3-libselinux
 python3-nftables
 python3-rpm
 readline
+redshift-gtk
 rpm
 rpm-build-libs
 rpm-libs
@@ -278,6 +287,7 @@ sg3_utils-libs
 shadow-utils
 shim-x64
 slang
+slick-greeter
 snappy
 sqlite-libs
 squashfs-tools
