@@ -9,6 +9,10 @@ dnf
 dnf-data
 dnf-plugins-core
 elfutils-default-yama-scope
+f36-backgrounds-extras-gnome
+f36-backgrounds-gnome
+f37-backgrounds-extras-gnome
+f37-backgrounds-gnome
 firewalld
 firewalld-filesystem
 fonts-filesystem
