@@ -241,6 +241,7 @@ libtalloc
 libtasn1
 libtdb
 libteam
+ibus-libzhuyin
 libtevent
 libunistring
 libuser
