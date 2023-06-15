@@ -9,7 +9,7 @@ NetworkManager-tui
 NetworkManager-libreswan-gnome
 NetworkManager-ppp
 PackageKit-gstreamer-plugin
-alsa-umc
+alsa-ucm
 alsa-utils
 anaconda
 anaconda-install-env-deps
