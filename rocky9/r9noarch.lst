@@ -162,3 +162,4 @@ firewall-config
 aajohan-comfortaa-fonts
 alsa-ucm
 ibus-typing-booster
+python3-scapy
