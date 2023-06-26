@@ -422,3 +422,10 @@ containerd.io
 docker-ce
 docker-ce-cli
 python3-mysqlclient
+wireshark
+chromium
+dsniff
+ngrep
+ssldump
+tcpflow
+whois
