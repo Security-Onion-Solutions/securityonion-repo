@@ -469,3 +469,6 @@ at
 NetworkManager-wwan
 NetworkManager-bluetooth
 NetworkManager-adsl
+ImageMagick-libs
+gtk2
+ibus
