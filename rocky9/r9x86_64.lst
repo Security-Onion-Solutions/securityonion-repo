@@ -472,3 +472,5 @@ NetworkManager-adsl
 ImageMagick-libs
 gtk2
 ibus
+ibus-gtk2
+graphviz
