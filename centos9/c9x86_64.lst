@@ -411,7 +411,7 @@ wget
 httpd-tools
 net-tools
 sqlite
-Mariadb-devel
+MariaDB-devel
 nmap-ncat
 python3-lxml
 createrepo
