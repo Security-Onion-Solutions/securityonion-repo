@@ -12,7 +12,6 @@ PackageKit-gstreamer-plugin
 alsa-utils
 anaconda
 anaconda-install-env-deps
-anaconda-live
 blktrace
 fprintd-pam
 gnome-calculator
