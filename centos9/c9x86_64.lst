@@ -480,3 +480,4 @@ kernel-modules-core
 liburing
 fuse
 fuse-overlayfs
+fuse-common
