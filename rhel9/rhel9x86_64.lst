@@ -411,7 +411,7 @@ wget
 httpd-tools
 net-tools
 sqlite
-MariaDB-devel
+mariadb-devel
 nmap-ncat
 python3-lxml
 createrepo
@@ -481,3 +481,4 @@ liburing
 fuse
 fuse-overlayfs
 fuse-common
+redhat-release
