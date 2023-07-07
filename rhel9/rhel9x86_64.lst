@@ -12,7 +12,6 @@ PackageKit-gstreamer-plugin
 alsa-utils
 anaconda
 anaconda-install-env-deps
-anaconda-live
 blktrace
 fprintd-pam
 gnome-calculator
@@ -412,7 +411,7 @@ wget
 httpd-tools
 net-tools
 sqlite
-mariadb-devel
+MariaDB-devel
 nmap-ncat
 python3-lxml
 createrepo
@@ -474,3 +473,11 @@ gtk2
 ibus
 ibus-gtk2
 graphviz
+salt-3006.1-0
+salt-minion-3006.1-0
+salt-master-3006.1-0
+kernel-modules-core
+liburing
+fuse
+fuse-overlayfs
+fuse-common

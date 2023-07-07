@@ -53,9 +53,9 @@ python3-gobject-base-noarch
 python3-pip-wheel
 python3-setuptools-wheel
 python3-six
-rocky-gpg-keys
-rocky-release
-rocky-repos
+centos-gpg-keys
+centos-stream-release
+centos-stream-repos
 rootfiles
 selinux-policy
 selinux-policy-targeted
