@@ -481,3 +481,4 @@ liburing
 fuse
 fuse-overlayfs
 fuse-common
+redhat-release
