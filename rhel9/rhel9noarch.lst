@@ -54,7 +54,6 @@ python3-pip-wheel
 python3-setuptools-wheel
 python3-six
 distribution-gpg-keys
-redhat-release
 rootfiles
 selinux-policy
 selinux-policy-targeted
