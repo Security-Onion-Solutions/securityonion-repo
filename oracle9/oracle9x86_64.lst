@@ -144,10 +144,7 @@ jemalloc-devel
 json-c
 kbd
 kernel
-kernel
 kernel-core
-kernel-core
-kernel-modules
 kernel-modules
 kernel-tools
 kernel-tools-libs
