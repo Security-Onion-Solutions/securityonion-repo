@@ -264,9 +264,6 @@ metacity
 mpfr
 ncurses
 ncurses-libs
-nemo-fileroller
-nemo-image-converter
-nemo-preview
 nettle
 newt
 nftables
@@ -478,4 +475,4 @@ liburing
 fuse
 fuse-overlayfs
 fuse-common
-redhat-release
+oracle-release
