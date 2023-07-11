@@ -57,9 +57,6 @@ authconfig
 bash
 bzip2-libs
 c-ares
-cinnamon
-cinnamon-control-center
-cinnamon-screensaver
 chrony
 coreutils
 coreutils-common
