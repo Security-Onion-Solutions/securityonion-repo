@@ -121,6 +121,7 @@ python3-certifi
 python3-charset-normalizer
 python3-docker
 python3-dnf-plugin-versionlock
+python3-rich
 slick-greeter-cinnamon
 tmux-powerline
 vim-powerline
