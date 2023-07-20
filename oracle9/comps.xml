@@ -139,47 +139,6 @@
       <packagereq type="mandatory">sudo</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="mandatory">yum</packagereq>
-      <packagereq type="default">aic94xx-firmware</packagereq>
-      <packagereq type="default">atmel-firmware</packagereq>
-      <packagereq type="default">b43-openfwwf</packagereq>
-      <packagereq type="default">bfa-firmware</packagereq>
-      <packagereq type="default">efibootmgr</packagereq>
-      <packagereq type="default">grub</packagereq>
-      <packagereq type="default">ipw2100-firmware</packagereq>
-      <packagereq type="default">ipw2200-firmware</packagereq>
-      <packagereq type="default">ivtv-firmware</packagereq>
-      <packagereq type="default">iwl100-firmware</packagereq>
-      <packagereq type="default">iwl1000-firmware</packagereq>
-      <packagereq type="default">iwl3945-firmware</packagereq>
-      <packagereq type="default">iwl4965-firmware</packagereq>
-      <packagereq type="default">iwl5000-firmware</packagereq>
-      <packagereq type="default">iwl5150-firmware</packagereq>
-      <packagereq type="default">iwl6000-firmware</packagereq>
-      <packagereq type="default">iwl6000g2a-firmware</packagereq>
-      <packagereq type="default">iwl6050-firmware</packagereq>
-      <packagereq type="default">kernel-firmware</packagereq>
-      <packagereq type="default">kexec-tools</packagereq>
-      <packagereq type="default">libertas-usb8388-firmware</packagereq>
-      <packagereq type="default">netxen-firmware</packagereq>
-      <packagereq type="default">postfix</packagereq>
-      <packagereq type="default">ql2100-firmware</packagereq>
-      <packagereq type="default">ql2200-firmware</packagereq>
-      <packagereq type="default">ql23xx-firmware</packagereq>
-      <packagereq type="default">ql2400-firmware</packagereq>
-      <packagereq type="default">ql2500-firmware</packagereq>
-      <packagereq type="default">rdma</packagereq>
-      <packagereq type="default">rt61pci-firmware</packagereq>
-      <packagereq type="default">rt73usb-firmware</packagereq>
-      <packagereq type="default">xorg-x11-drv-ati-firmware</packagereq>
-      <packagereq type="default">zd1211-firmware</packagereq>
-      <packagereq type="optional">dracut-fips</packagereq>
-      <packagereq type="optional">dracut-network</packagereq>
-      <packagereq type="optional">libee-devel</packagereq>
-      <packagereq type="optional">openssh-server-fips</packagereq>
-      <packagereq type="optional">selinux-policy-doc</packagereq>
-      <packagereq type="optional">ql2600-firmware</packagereq>
-      <packagereq type="optional">ql2700-firmware</packagereq>
-      <packagereq type="optional">ql8300-firmware</packagereq>
     </packagelist>
   </group>
   <group>
