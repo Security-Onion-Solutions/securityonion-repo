@@ -11,7 +11,7 @@ anaconda-install-env-deps
 appstream
 at
 atk
-atknm
+atkmm
 atop
 at-spi2-atk
 at-spi2-core
