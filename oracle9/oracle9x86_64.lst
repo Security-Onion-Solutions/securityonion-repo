@@ -31,7 +31,7 @@ bind-utils
 blktrace
 bluez
 bluez-libs
-bluez.obexd
+bluez-obexd
 boabab
 bolt
 bpftool
