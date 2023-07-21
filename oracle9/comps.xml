@@ -125,6 +125,7 @@
       <packagereq type="mandatory">iproute</packagereq>
       <packagereq type="mandatory">iputils</packagereq>
       <packagereq type="mandatory">kbd</packagereq>
+      <packagereq type="mandatory">newt</packagereq>
       <packagereq type="mandatory">ncurses</packagereq>
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">oraclelinux-release</packagereq>
