@@ -84,7 +84,7 @@ cryptsetup
 cryptsetup-libs
 cups
 cups-client
-cups-filter-libs
+cups-filters-libs
 cups-filters
 cups-ipptool
 cups-libs
