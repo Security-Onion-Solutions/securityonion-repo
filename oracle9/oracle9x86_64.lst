@@ -59,10 +59,6 @@ clutter-gst3
 clutter-gtk
 cockpit
 cockpit-bridge
-cockpit-packagekit.noarch
-cockpit-podman.noarch
-cockpit-storaged.noarch
-cockpit-system.noarch
 cockpit-ws
 cogl
 colord-gtk
