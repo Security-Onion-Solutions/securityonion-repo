@@ -144,6 +144,9 @@
       <packagereq type="mandatory">irqbalance</packagereq>
       <packagereq type="mandatory">jq</packagereq>
       <packagereq type="mandatory">kbd</packagereq>
+      <packagereq type="mandatory">kernel-uek-core</packagereq>
+      <packagereq type="mandatory">kernel-uek-modules</packagereq>
+      <packagereq type="mandatory">kernel-uek</packagereq>
       <packagereq type="mandatory">kexec-tools</packagereq>
       <packagereq type="mandatory">less</packagereq>
       <packagereq type="mandatory">lvm2</packagereq>
