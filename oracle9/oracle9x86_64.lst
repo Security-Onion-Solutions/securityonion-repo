@@ -46,6 +46,7 @@ cairo
 cairo-gobject
 cairomm
 c-ares
+checkpolicy
 cheese
 cheese-libs
 chkconfig
