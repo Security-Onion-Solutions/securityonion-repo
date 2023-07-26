@@ -164,7 +164,6 @@
       <packagereq type="mandatory">parted</packagereq>
       <packagereq type="mandatory">passwd</packagereq>
       <packagereq type="mandatory">patch</packagereq>
-      <packagereq type="mandatory">plymouth</packagereq>
       <packagereq type="mandatory">policycoreutils</packagereq>
       <packagereq type="mandatory">procps-ng</packagereq>
       <packagereq type="mandatory">rootfiles</packagereq>
