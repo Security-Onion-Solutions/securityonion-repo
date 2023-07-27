@@ -79,6 +79,7 @@ ibus-setup
 ibus-typing-booster
 initscripts-service
 iotop
+iptables-services
 iso-codes
 itstool
 iwl1000-firmware
