@@ -411,8 +411,6 @@
       <packagereq type="mandatory">cairo</packagereq>
       <packagereq type="mandatory">c-ares</packagereq>
       <packagereq type="mandatory">checkpolicy</packagereq>
-      <packagereq type="mandatory">cheese-libs</packagereq>
-      <packagereq type="mandatory">cheese</packagereq>
       <packagereq type="mandatory">chkconfig</packagereq>
       <packagereq type="mandatory">chrome-gnome-shell</packagereq>
       <packagereq type="mandatory">chromium</packagereq>
@@ -685,7 +683,6 @@
       <packagereq type="mandatory">mesa-vulkan-drivers</packagereq>
       <packagereq type="mandatory">microcode_ctl</packagereq>
       <packagereq type="mandatory">mobile-broadband-provider-info</packagereq>
-      <packagereq type="mandatory">mozilla-filesystem</packagereq>
       <packagereq type="mandatory">mpfr</packagereq>
       <packagereq type="mandatory">mpg123-libs</packagereq>
       <packagereq type="mandatory">mtdev</packagereq>
