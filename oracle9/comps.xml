@@ -415,6 +415,7 @@
       <packagereq type="mandatory">cheese</packagereq>
       <packagereq type="mandatory">chkconfig</packagereq>
       <packagereq type="mandatory">chrome-gnome-shell</packagereq>
+      <packagereq type="mandatory">chromium</packagereq>
       <packagereq type="mandatory">clutter-gst3</packagereq>
       <packagereq type="mandatory">clutter-gtk</packagereq>
       <packagereq type="mandatory">clutter</packagereq>
@@ -700,6 +701,7 @@
       <packagereq type="mandatory">openssh-clients</packagereq>
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">open-vm-tools</packagereq>
+      <packagereq type="mandatory">open-vm-tools-desktop</packagereq>
       <packagereq type="mandatory">oracle-backgrounds</packagereq>
       <packagereq type="mandatory">oracle-indexhtml</packagereq>
       <packagereq type="mandatory">oraclelinux-release</packagereq>
@@ -719,14 +721,6 @@
       <packagereq type="mandatory">pipewire-pulseaudio</packagereq>
       <packagereq type="mandatory">pipewire-utils</packagereq>
       <packagereq type="mandatory">pixman</packagereq>
-      <packagereq type="mandatory">plymouth-core-libs</packagereq>
-      <packagereq type="mandatory">plymouth-graphics-libs</packagereq>
-      <packagereq type="mandatory">plymouth</packagereq>
-      <packagereq type="mandatory">plymouth-plugin-label</packagereq>
-      <packagereq type="mandatory">plymouth-plugin-two-step</packagereq>
-      <packagereq type="mandatory">plymouth-scripts</packagereq>
-      <packagereq type="mandatory">plymouth-system-theme</packagereq>
-      <packagereq type="mandatory">plymouth-theme-spinner</packagereq>
       <packagereq type="mandatory">policycoreutils</packagereq>
       <packagereq type="mandatory">policycoreutils-python-utils</packagereq>
       <packagereq type="mandatory">procps-ng</packagereq>
@@ -769,6 +763,7 @@
       <packagereq type="mandatory">taglib</packagereq>
       <packagereq type="mandatory">tar</packagereq>
       <packagereq type="mandatory">tcpdump</packagereq>
+      <packagereq type="mandatory">tcpflow</packagereq>
       <packagereq type="mandatory">thai-scalable-fonts-common</packagereq>
       <packagereq type="mandatory">thai-scalable-waree-fonts</packagereq>
       <packagereq type="mandatory">totem</packagereq>
@@ -818,6 +813,7 @@
       <packagereq type="mandatory">wireless-regdb</packagereq>
       <packagereq type="mandatory">wireplumber-libs</packagereq>
       <packagereq type="mandatory">wireplumber</packagereq>
+      <packagereq type="mandatory">wireshark</packagereq>
       <packagereq type="mandatory">woff2</packagereq>
       <packagereq type="mandatory">words</packagereq>
       <packagereq type="mandatory">wpa_supplicant</packagereq>
