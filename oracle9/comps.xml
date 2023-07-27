@@ -448,7 +448,6 @@
       <packagereq type="mandatory">evolution-data-server-langpacks</packagereq>
       <packagereq type="mandatory">evolution-data-server</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
-      <packagereq type="mandatory">firefox</packagereq>
       <packagereq type="mandatory">firewalld</packagereq>
       <packagereq type="mandatory">flac-libs</packagereq>
       <packagereq type="mandatory">flashrom</packagereq>
