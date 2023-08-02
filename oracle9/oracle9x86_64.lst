@@ -639,6 +639,7 @@ metacity
 mlocate
 ModemManager
 ModemManager-glib
+mono-devel
 mozilla-filesystem
 mpfr
 mpg123-libs
