@@ -553,6 +553,7 @@
       <packagereq type="mandatory">gstreamer1-plugins-good-gtk</packagereq>
       <packagereq type="mandatory">gstreamer1-plugins-good</packagereq>
       <packagereq type="mandatory">gstreamer1-plugins-ugly-free</packagereq>
+      <packagereq type="mandatory">gtk2</packagereq>
       <packagereq type="mandatory">gtk3</packagereq>
       <packagereq type="mandatory">gtk4</packagereq>
       <packagereq type="mandatory">gtkmm30</packagereq>
@@ -683,6 +684,7 @@
       <packagereq type="mandatory">mesa-vulkan-drivers</packagereq>
       <packagereq type="mandatory">microcode_ctl</packagereq>
       <packagereq type="mandatory">mobile-broadband-provider-info</packagereq>
+      <packagereq type="mandatory">mono-devel</packagereq>
       <packagereq type="mandatory">mpfr</packagereq>
       <packagereq type="mandatory">mpg123-libs</packagereq>
       <packagereq type="mandatory">mtdev</packagereq>
