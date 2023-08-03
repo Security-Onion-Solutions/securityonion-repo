@@ -736,6 +736,7 @@
       <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
       <packagereq type="mandatory">sane-backends-libs</packagereq>
       <packagereq type="mandatory">sane-backends</packagereq>
+      <packagereq type="mandatory">securityonion-networkminer</packagereq>
       <packagereq type="mandatory">selinux-policy-targeted</packagereq>
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
