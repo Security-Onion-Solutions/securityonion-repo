@@ -237,6 +237,7 @@ quota-nls
 rhnlib
 rootfiles
 samba-common
+scap-security-guide
 selinux-policy
 selinux-policy-targeted
 setroubleshoot-plugins
@@ -269,6 +270,7 @@ urw-base35-nimbus-sans-fonts
 urw-base35-p052-fonts
 urw-base35-standard-symbols-ps-fonts
 urw-base35-z003-fonts
+usbguard-selinux
 usb_modeswitch-data
 vim-filesystem
 vim-powerline

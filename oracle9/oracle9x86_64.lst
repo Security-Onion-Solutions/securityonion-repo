@@ -5,6 +5,7 @@ adcli
 alsa-lib
 alsa-utils
 alternatives
+aide
 anaconda
 anaconda-dracut
 anaconda-install-env-deps
@@ -231,6 +232,7 @@ gnome-terminal-nautilus
 gnome-tour
 gnupg2
 gnutls
+gnutls-utils
 gobject-introspection
 gom
 gpgme
@@ -502,6 +504,7 @@ libqrtr-glib
 libref_array
 librelp
 librepo
+libreswan
 librsvg2
 librsvg2-tools
 libsamplerate
@@ -687,6 +690,9 @@ nvme-cli
 oniguruma
 openjpeg2
 openldap
+opensc
+openscap
+openscap-scanner
 openssh
 openssh-clients
 openssh-server
@@ -728,6 +734,7 @@ pcp-libs
 pcre
 pcre2
 pcre2-utf32
+pcsc-lite
 perl-B
 perl-Data-Dumper
 perl-DBD-SQLite
@@ -854,6 +861,7 @@ rhn-client-tools
 rhnsd
 rhn-setup
 rhn-setup-gnome
+rng-tools
 rpm
 rpm-build-libs
 rpm-libs
@@ -936,6 +944,7 @@ tcpreplay
 teamd
 texlive-lib
 time
+tmux
 totem
 totem-pl-parser
 totem-video-thumbnailer
@@ -951,6 +960,7 @@ udisks2-iscsi
 udisks2-lvm2
 unzip
 upower
+usbguard
 usb_modeswitch
 usbutils
 usermode
