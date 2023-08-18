@@ -12,6 +12,7 @@ basesystem
 bash-completion
 bind-license
 ca-certificates
+cloud-init
 cockpit-packagekit
 cockpit-podman
 cockpit-storaged
