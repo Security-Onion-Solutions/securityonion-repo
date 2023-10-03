@@ -626,7 +626,6 @@ lvm2-libs
 lz4-libs
 lzo
 man-db
-mariadb-devel
 mcelog
 mdadm
 memtest86+
@@ -829,7 +828,6 @@ python3-lxml
 python3-m2crypto
 python3-markupsafe
 python3-msgpack
-python3-mysqlclient
 python3-netifaces
 python3-newt
 python3-nftables
