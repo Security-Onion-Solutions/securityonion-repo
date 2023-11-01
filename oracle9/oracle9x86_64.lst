@@ -5,7 +5,6 @@ adcli
 alsa-lib
 alsa-utils
 alternatives
-aide
 anaconda
 anaconda-dracut
 anaconda-install-env-deps
