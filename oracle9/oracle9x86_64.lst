@@ -28,6 +28,7 @@ bc
 bcache-tools
 bind-libs
 bind-utils
+binutils
 blktrace
 bluez
 bluez-libs
