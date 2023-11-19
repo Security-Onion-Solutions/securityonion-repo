@@ -29,6 +29,7 @@ bcache-tools
 bind-libs
 bind-utils
 binutils
+binutils-gold
 blktrace
 bluez
 bluez-libs
