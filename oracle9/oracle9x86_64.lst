@@ -21,6 +21,7 @@ audit-libs
 authconfig
 authselect
 authselect-libs
+avahi
 avahi-glib
 avahi-libs
 bash
@@ -1027,4 +1028,5 @@ yelp-libs
 zenity
 zip
 zlib
+zlib-devel
 zstd
