@@ -194,6 +194,7 @@ git
 git-core
 gjs
 glib2
+glib2-devel
 glibc
 glibc-all-langpacks
 glibc-common
