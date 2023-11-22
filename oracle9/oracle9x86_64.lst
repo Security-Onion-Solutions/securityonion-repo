@@ -470,6 +470,7 @@ libmediaart
 libmnl
 libmodulemd
 libmount
+libmount-devel
 libmpc
 libmpeg2
 libmspack
