@@ -415,6 +415,7 @@ libexif
 libfastjson
 libfdisk
 libffi
+libffi-devel
 libfido2
 libfontenc
 libfprint
