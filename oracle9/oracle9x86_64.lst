@@ -57,7 +57,9 @@ chrome-gnome-shell
 chromium
 chrony
 clevis
+clevis-dracut
 clevis-luks
+clevis-systemd
 clutter
 clutter-gst3
 clutter-gtk
