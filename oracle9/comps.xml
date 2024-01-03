@@ -402,6 +402,7 @@
       <packagereq type="mandatory">bluez-obexd</packagereq>
       <packagereq type="mandatory">bluez</packagereq>
       <packagereq type="mandatory">bolt</packagereq>
+      <packagereq type="mandatory">brasero</packagereq>
       <packagereq type="mandatory">btrfs-progs</packagereq>
       <packagereq type="mandatory">bzip2-libs</packagereq>
       <packagereq type="mandatory">bzip2</packagereq>
