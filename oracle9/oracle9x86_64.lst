@@ -631,6 +631,7 @@ lua-libs
 luksmeta
 lvm2
 lvm2-libs
+lz4
 lz4-libs
 lzo
 man-db
