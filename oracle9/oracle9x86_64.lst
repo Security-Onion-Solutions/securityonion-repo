@@ -884,9 +884,9 @@ rsyslog-logrotate
 rsyslog-relp
 rtkit
 salt-3006.5-0
-salt-master-3006.5-0
-salt-minion-3006.5-0
-salt-syndic-3006.5-0
+salt-master-3006.6-0
+salt-minion-3006.6-0
+salt-syndic-3006.6-0
 samba-client-libs
 samba-common-libs
 sane-airscan
