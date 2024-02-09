@@ -810,6 +810,7 @@ psmisc
 pulseaudio-libs
 pulseaudio-libs-glib2
 pulseaudio-utils
+putty
 python3
 python3-audit
 python3-brlapi
