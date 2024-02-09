@@ -727,6 +727,7 @@
       <packagereq type="mandatory">pulseaudio-libs-glib2</packagereq>
       <packagereq type="mandatory">pulseaudio-libs</packagereq>
       <packagereq type="mandatory">pulseaudio-utils</packagereq>
+      <packagereq type="mandatory">putty</packagereq>
       <packagereq type="mandatory">rootfiles</packagereq>
       <packagereq type="mandatory">rpm</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
