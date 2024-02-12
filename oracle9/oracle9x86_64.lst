@@ -919,6 +919,7 @@ sqlite
 sqlite-libs
 squashfs-tools
 sscg
+sshpass
 ssldump
 sssd
 sssd-ad
