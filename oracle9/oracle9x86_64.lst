@@ -682,6 +682,7 @@ NetworkManager-tui
 NetworkManager-wifi
 NetworkManager-wwan
 newt
+nfs-utils
 nftables
 ngrep
 nmap-ncat
