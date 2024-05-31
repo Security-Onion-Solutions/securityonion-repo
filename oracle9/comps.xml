@@ -732,7 +732,6 @@
       <packagereq type="mandatory">rpm</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
       <packagereq type="mandatory">rsyslog</packagereq>
-      <packagereq type="mandatory">salt-minion</packagereq>
       <packagereq type="mandatory">sane-airscan</packagereq>
       <packagereq type="mandatory">sane-backends-drivers-cameras</packagereq>
       <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
