@@ -149,6 +149,8 @@
       <packagereq type="mandatory">kernel-uek</packagereq>
       <packagereq type="mandatory">kexec-tools</packagereq>
       <packagereq type="mandatory">less</packagereq>
+      <packagereq type="mandatory">libffi</packagereq>
+      <packagereq type="mandatory">libffi-devel</packagereq>
       <packagereq type="mandatory">lvm2</packagereq>
       <packagereq type="mandatory">man-db</packagereq>
       <packagereq type="mandatory">mdadm</packagereq>
