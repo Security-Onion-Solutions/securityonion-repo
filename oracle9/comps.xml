@@ -148,10 +148,7 @@
       <packagereq type="mandatory">kernel-uek-modules</packagereq>
       <packagereq type="mandatory">kernel-uek</packagereq>
       <packagereq type="mandatory">kexec-tools</packagereq>
-      <packagereq type="mandatory">krb5-libs</packagereq>
       <packagereq type="mandatory">less</packagereq>
-      <packagereq type="mandatory">libffi</packagereq>
-      <packagereq type="mandatory">libffi-devel</packagereq>
       <packagereq type="mandatory">lvm2</packagereq>
       <packagereq type="mandatory">man-db</packagereq>
       <packagereq type="mandatory">mdadm</packagereq>
@@ -173,12 +170,10 @@
       <packagereq type="mandatory">rpm</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
       <packagereq type="mandatory">rsyslog</packagereq>
-      <packagereq type="mandatory">rsyslog-gssapi</packagereq>
       <packagereq type="mandatory">selinux-policy-targeted</packagereq>
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
       <packagereq type="mandatory">sshpass</packagereq>
-      <packagereq type="mandatory">sqlite</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
       <packagereq type="mandatory">sysstat</packagereq>
       <packagereq type="mandatory">systemd</packagereq>
@@ -912,7 +907,6 @@
     <description xml:lang="zh_TW">基本功能。</description>
     <display_order>5</display_order>
     <grouplist>
-      <groupid>core</groupid>
       <groupid>core</groupid>
     </grouplist>
   </environment>
