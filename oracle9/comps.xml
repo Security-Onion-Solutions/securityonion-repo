@@ -114,7 +114,6 @@
       <packagereq type="mandatory">argon2</packagereq>
       <packagereq type="mandatory">atop</packagereq>
       <packagereq type="mandatory">attr</packagereq>
-      <packagereq type="mandatory">audit</packagereq>
       <packagereq type="mandatory">basesystem</packagereq>
       <packagereq type="mandatory">bash</packagereq>
       <packagereq type="mandatory">bc</packagereq>
@@ -169,6 +168,7 @@
       <packagereq type="mandatory">patch</packagereq>
       <packagereq type="mandatory">policycoreutils</packagereq>
       <packagereq type="mandatory">procps-ng</packagereq>
+      <packagereq type="mandatory">readline-devel</packagereq>
       <packagereq type="mandatory">rootfiles</packagereq>
       <packagereq type="mandatory">rpm</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
