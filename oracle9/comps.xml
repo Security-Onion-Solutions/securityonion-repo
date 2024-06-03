@@ -148,6 +148,7 @@
       <packagereq type="mandatory">kernel-uek-modules</packagereq>
       <packagereq type="mandatory">kernel-uek</packagereq>
       <packagereq type="mandatory">kexec-tools</packagereq>
+      <packagereq type="mandatory">krb5-libs</packagereq>
       <packagereq type="mandatory">less</packagereq>
       <packagereq type="mandatory">libffi</packagereq>
       <packagereq type="mandatory">libffi-devel</packagereq>
