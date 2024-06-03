@@ -172,10 +172,12 @@
       <packagereq type="mandatory">rpm</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
       <packagereq type="mandatory">rsyslog</packagereq>
+      <packagereq type="mandatory">rsyslog-gssapi</packagereq>
       <packagereq type="mandatory">selinux-policy-targeted</packagereq>
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
       <packagereq type="mandatory">sshpass</packagereq>
+      <packagereq type="mandatory">sqlite</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
       <packagereq type="mandatory">sysstat</packagereq>
       <packagereq type="mandatory">systemd</packagereq>
