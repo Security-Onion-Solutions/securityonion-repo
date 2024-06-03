@@ -913,7 +913,6 @@
     <display_order>5</display_order>
     <grouplist>
       <groupid>core</groupid>
-      <groupid>core</groupid>
     </grouplist>
   </environment>
 </comps>
