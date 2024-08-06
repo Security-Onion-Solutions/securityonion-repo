@@ -273,6 +273,7 @@ gtk4
 gtkmm30
 gtksourceview4
 gtk-update-icon-cache
+guestfs-tools
 gutenprint
 gutenprint-cups
 gutenprint-doc
@@ -441,6 +442,7 @@ libgs
 libgsf
 libgtop2
 libgudev
+libguestfs
 libgusb
 libgweather
 libgxps
@@ -569,6 +571,7 @@ libuuid
 libuv
 libv4l
 libverto
+libvirt
 libvisual
 libvorbis
 libvpx
@@ -857,6 +860,7 @@ python3-speechd
 python3-systemd
 python3-urwid
 qemu-guest-agent
+qemu-kvm
 qpdf-libs
 quota
 rasdaemon
