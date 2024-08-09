@@ -96,6 +96,7 @@ cups-filters
 cups-ipptool
 cups-libs
 curl
+cyrus-sasl-gssapi
 cyrus-sasl-lib
 cyrus-sasl-plain
 dbus
