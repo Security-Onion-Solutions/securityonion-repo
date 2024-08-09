@@ -902,6 +902,7 @@ sane-backends
 sane-backends-drivers-cameras
 sane-backends-drivers-scanners
 sane-backends-libs
+screen
 sed
 setroubleshoot
 setroubleshoot-server
