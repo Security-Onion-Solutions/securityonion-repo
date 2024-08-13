@@ -276,6 +276,7 @@ usbguard-selinux
 usb_modeswitch-data
 vim-filesystem
 vim-powerline
+virt-install
 wireless-regdb
 words
 xdg-utils
