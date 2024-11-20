@@ -294,6 +294,7 @@ hdparm
 hostname
 hplip-common
 hplip-libs
+htop
 httpd-tools
 hunspell
 hunspell-filesystem
@@ -493,6 +494,7 @@ libnl3
 libnl3-cli
 libnma
 libnotify
+libnsl
 libnvme
 libogg
 libosinfo
@@ -691,6 +693,7 @@ newt
 nfs-utils
 nftables
 ngrep
+nload
 nmap-ncat
 nm-connection-editor
 npth
