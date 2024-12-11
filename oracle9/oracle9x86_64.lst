@@ -515,6 +515,7 @@ libpwquality
 libqmi
 libqmi-utils
 libqrtr-glib
+librdmacm
 libref_array
 librelp
 librepo
