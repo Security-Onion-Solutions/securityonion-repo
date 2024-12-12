@@ -716,6 +716,7 @@ openssh
 openssh-clients
 openssh-server
 openssl
+openssl-fips-provider
 openssl-libs
 openssl-pkcs11
 open-vm-tools
