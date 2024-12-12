@@ -215,6 +215,7 @@ python3-linux-procfs
 python3-louis
 python3-packaging
 python3-pexpect
+python3-pip
 python3-pip-wheel
 python3-ply
 python3-policycoreutils
