@@ -839,6 +839,7 @@ python3-immutables
 python3-kmod
 python3-libcomps
 python3-libdnf
+python3-libguestfs
 python3-librepo
 python3-libs
 python3-libselinux
