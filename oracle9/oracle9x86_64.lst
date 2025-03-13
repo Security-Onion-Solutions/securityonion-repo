@@ -674,6 +674,8 @@ ncurses-libs
 netavark
 netcat
 net-snmp-libs
+net-snmp
+net-snmp-utils
 nettle
 net-tools
 NetworkManager
