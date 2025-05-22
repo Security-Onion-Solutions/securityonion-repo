@@ -529,6 +529,7 @@ libsbc
 libseccomp
 libsecret
 libselinux
+libselinux-devel
 libselinux-utils
 libsemanage
 libsepol
