@@ -533,6 +533,7 @@ libselinux-devel
 libselinux-utils
 libsemanage
 libsepol
+libsepol-devel
 libshout
 libsigc++20
 libsigsegv
