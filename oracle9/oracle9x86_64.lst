@@ -837,6 +837,7 @@ python3-cryptography
 python3-cups
 python3-dbus
 python3-dmidecode
+python3-dnf
 python3-gobject
 python3-gobject-base
 python3-gpg
