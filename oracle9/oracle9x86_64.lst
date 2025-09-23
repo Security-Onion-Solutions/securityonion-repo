@@ -1018,6 +1018,7 @@ webrtc-audio-processing
 wget
 which
 whois
+wireguard-tools
 wireplumber
 wireplumber-libs
 wireshark
