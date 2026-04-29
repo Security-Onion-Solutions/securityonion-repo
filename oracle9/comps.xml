@@ -165,6 +165,7 @@
       <packagereq type="mandatory">patch</packagereq>
       <packagereq type="mandatory">policycoreutils</packagereq>
       <packagereq type="mandatory">procps-ng</packagereq>
+      <packagereq type="mandatory">python3-pyyaml</packagereq>
       <packagereq type="mandatory">rootfiles</packagereq>
       <packagereq type="mandatory">rpm</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
