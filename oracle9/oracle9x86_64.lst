@@ -363,6 +363,10 @@ kpartx
 krb5-libs
 lame-libs
 lcms2
+leapp
+leapp-deps
+leapp-upgrade-el9toel10
+leapp-upgrade-el9toel10-deps
 ledmon
 less
 liba52
@@ -406,6 +410,7 @@ libcurl
 libdaemon
 libdatrie
 libdb
+libdb-utils
 libdhash
 libdmx
 libdnet
@@ -809,6 +814,7 @@ plymouth-theme-spinner
 pnm2ppa
 podman
 policycoreutils
+policycoreutils-python-utils
 polkit
 polkit-libs
 polkit-pkla-compat
@@ -836,6 +842,7 @@ python3-cffi
 python3-cryptography
 python3-cups
 python3-dbus
+python3-distro
 python3-dmidecode
 python3-gobject
 python3-gobject-base
@@ -843,6 +850,7 @@ python3-gpg
 python3-hawkey
 python3-immutables
 python3-kmod
+python3-leapp
 python3-libcomps
 python3-libdnf
 python3-libguestfs
@@ -860,6 +868,7 @@ python3-netifaces
 python3-newt
 python3-nftables
 python3-perf
+python3-policycoreutils
 python3-psutil
 python3-pycryptodomex
 python3-pycurl
