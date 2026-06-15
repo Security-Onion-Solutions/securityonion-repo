@@ -684,7 +684,6 @@ net-tools
 NetworkManager
 NetworkManager-adsl
 NetworkManager-bluetooth
-NetworkManager-l2tp-gnome
 NetworkManager-libnm
 NetworkManager-libreswan-gnome
 NetworkManager-openconnect-gnome
